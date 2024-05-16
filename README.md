@@ -55,7 +55,7 @@
 ###
   
   <img src="https://gh-stats.spageektti.cc/api?username=spageektti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spageektti&theme=vue-dark&hide_border=false" alt="streak stats" />
+  <img src="https://gh-streak.spageektti.cc/?user=spageektti&theme=vue-dark&hide_border=false" alt="streak stats" />
 
 ### Github Metrics
 
