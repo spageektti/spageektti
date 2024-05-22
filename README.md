@@ -52,10 +52,12 @@
   <img src="https://www.codewars.com/users/spageektti/badges/small" alt="CodeWars Badge" />
   <a href="https://wakatime.com/@206d62f7-cde2-42eb-b0b0-ec81f24ba3db"><img src="https://wakatime.com/badge/user/206d62f7-cde2-42eb-b0b0-ec81f24ba3db.svg" alt="Total time coded since May 5 2024" /></a>
   
-###
-  
+### Github Stats
+
+<details>
   <img src="https://gh-stats.spageektti.cc/api?username=spageektti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage" alt="stats graph"  />
   <img src="https://gh-streak.spageektti.cc/?user=spageektti&theme=vue-dark&hide_border=false" alt="streak stats" />
+</details>
 
 ### Github Metrics
 
