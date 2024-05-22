@@ -65,4 +65,16 @@
   <img src="https://raw.githubusercontent.com/spageektti/spageektti/main/github-metrics.svg" alt="Github Metrics" />
 </details>
 
+### Projects I contributed to
+
+<details>
+
+| Project                                                                                             | Since         | Role         |
+| --------------------------------------------------------------------------------------------------- | ------------- | ------------ |
+| [tldr-pages/tldr](https://github.com/tldr-pages/tldr)                                               | 4 May 2024    | Collaborator |
+| [github-profile-achievements/polish](https://github.com/github-profile-achievements/polish)         | 5 May 2024    | Contributor  |
+| [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 21 April 2024 | Contributor  |
+
+</details>
+
 ###
