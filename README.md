@@ -71,7 +71,7 @@
 
 | Project                                                                                             | First Contribution | Role         |
 | --------------------------------------------------------------------------------------------------- | ------------------ | ------------ |
-| [tldr-pages/tldr](https://github.com/tldr-pages/tldr)                                               | 4 May 2024         | Collaborator |
+| [tldr-pages/tldr](https://github.com/tldr-pages/tldr)                                               | 4 May 2024         | Maintainer - tldr pages organization member |
 |                                                                                                     |                    |              |
 | [okineadev/dotload](https://github.com/okineadev/dotload)                                           | 23 May 2024        | Contributor  |
 | [github-profile-achievements/polish](https://github.com/github-profile-achievements/polish)         | 5 May 2024         | Contributor  |
