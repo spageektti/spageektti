@@ -220,7 +220,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 39.9 characters per line of code written</li>
+                        <li>Has approximately 41.6 characters per line of code written</li>
                         <li>Mostly pushes code around 17:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -1310,7 +1310,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 244 out of 169m repositories</span>
+                                    <span class="gh">ranked 244 out of 200m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 49183 stars</div>
                             </div>
@@ -1357,7 +1357,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.75 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.8533333333333335 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1379,7 +1379,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1075 times</div>
+                                <div class="text">Repositories have been deployed 1076 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1530,7 +1530,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.42m out of 137m users</span>
+                                    <span class="gh">ranked 3.42m out of 139m users</span>
                                 </div>
                                 <div class="text">Published 18 public repositories</div>
                             </div>
@@ -1686,7 +1686,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.80m out of 137m users</span>
+                                    <span class="gh">ranked 1.80m out of 139m users</span>
                                 </div>
                                 <div class="text">Followed by 8 users</div>
                             </div>
