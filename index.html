@@ -6,6 +6,9 @@ layout: null
 
 {% include header.html %}
 
-{{ content }}
+{% capture readme_content %}
+{% include_relative README.md %}
+{% endcapture %}
+{{ readme_content | markdownify }}
 
 {% include footer.html %}
