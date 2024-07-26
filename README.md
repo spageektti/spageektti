@@ -1,6 +1,8 @@
 ## **Hi, I'm Wiktor.**
 ### **Open Source Enthusiast & Data Freedom Fighter 💻**
 
+![](https://komarev.com/ghpvc/?username=spageektti)
+
 👋 Hi. I'm Wiktor, but you can call me spageektti. I'm a student with a passion for open source and open data, and I believe that knowledge should be free and accessible to everyone 📚. I also like playing games, especially 🏎️ Super Tux Kart and  🎮 retro classics.
 
 **🏆 Competitive Programming 🏆**
