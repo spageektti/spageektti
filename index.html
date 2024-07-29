@@ -1,15 +1,19 @@
 ---
 layout: null
 ---
-
+<head>
 <link rel="stylesheet" type="text/css" href="https://spageektti.cc/style.css">
 <link rel="me" href="https://mastodon.social/@spageektti">
-
+</head>
+<body>
 {% include header.html %}
 
+<main class="about-me">
 {% capture readme_content %}
 {% include_relative README.md %}
 {% endcapture %}
 {{ readme_content | markdownify }}
+</main>
 
 {% include footer.html %}
+</body>
