@@ -1,27 +1,21 @@
 <!DOCTYPE html>
 <html>
----
-layout: null
----
 <head>
-  <title>spageektti site</title>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="me" href="https://mastodon.social/@spageektti">
-  <link rel="stylesheet" type="text/css" href="/fonts/fira-mono.css">
-  <link rel="stylesheet" type="text/css" href="https://spageektti.cc/style.css">
+<title>spageektti site</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="me" href="https://mastodon.social/@spageektti">
+<link rel="stylesheet" type="text/css" href="/fonts/fira-mono.css">
+<link rel="stylesheet" type="text/css" href="https://spageektti.cc/style.css">
 </head>
 <body>
-  {% include header.html %}
-  
-  <main class="about-me">
-    {% capture readme_content %}
-    {% include_relative README.md %}
-    {% endcapture %}
-    
-    {{ readme_content | markdownify }}
-  </main>
-  
-  {% include footer.html %}
+{% include header.html %}
+<main class="about-me">
+{% capture readme_content %}
+{% include_relative README.md %}
+{% endcapture %}
+{{ readme_content | markdownify }}
+</main>
+{% include footer.html %}
 </body>
 </html>
