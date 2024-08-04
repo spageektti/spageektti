@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Wiktor and I am a student interested in computer science. I am also medalist of the Polish Junior Olympiad in Informatics.</h2>
+<h2 align="left">Hi 👋!<br> My name is Wiktor and I am a student interested in computer science. I am also medalist of the Polish Junior Olympiad in Informatics.</h2>
 
 ###
 
