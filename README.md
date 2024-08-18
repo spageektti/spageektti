@@ -4,6 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=spageektti)
 ![Liberapay Patrons](https://img.shields.io/liberapay/patrons/spageektti.svg?logo=liberapay)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](https://mastodon.social/invite/YMzUenDg)
+[![signal](https://img.shields.io/badge/Signal-blue?logo=signal&logoColor=white)](https://signal.me/#eu/uewaVaf6jIEDAmae2gGSqNeLrhk_1wKmOLAdEBmZWQ4M7lIg12hHqZK5ophGkDTD)
 
 👋 Hi. I'm Wiktor, but you can call me spageektti. I'm a student with a passion for open source and open data, and I believe that knowledge should be free and accessible to everyone 📚. I also like playing games, especially 🏎️ Super Tux Kart and  🎮 retro classics.
 
