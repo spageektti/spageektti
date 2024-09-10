@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4807" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4723" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    28.3k added, 1.04k removed
+                                    23k added, 2.97k removed
                                 </div>
                             </section>
                             <section>
@@ -3437,7 +3437,7 @@ I'm using the Haskell client in version 0.6.4</i>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 244 out of 216m repositories</span>
+                                    <span class="gh">ranked 244 out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 50338 stars</div>
                             </div>
@@ -3452,7 +3452,7 @@ I'm using the Haskell client in version 0.6.4</i>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="205.01333333333332 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="205.11666666666665 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3474,7 +3474,7 @@ I'm using the Haskell client in version 0.6.4</i>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 2984 times</div>
+                                <div class="text">Repositories have been deployed 2985 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3892,7 +3892,7 @@ I'm using the Haskell client in version 0.6.4</i>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.37m out of 216m repositories</span>
+                                    <span class="gh">ranked 5.37m out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -4107,7 +4107,7 @@ I'm using the Haskell client in version 0.6.4</i>
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">spageektti/rubber-ducky</span>
+                            <span class="blue space">spageektti/blot-tac-toe</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -4115,7 +4115,7 @@ I'm using the Haskell client in version 0.6.4</i>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 9 Sept 2024, 20:15:43
+                            On 9 Sept 2024, 22:46:54
                         </div>
                     </section>
                 </div>
@@ -4131,10 +4131,10 @@ I'm using the Haskell client in version 0.6.4</i>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">9f2c1201</span>
+                            <span class="code">0250d99c</span>
                             <span class="code">README.md</span>
                             <span class="code">
-                                <span class="snippet additions">++3</span>
+                                <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -4143,7 +4143,7 @@ I'm using the Haskell client in version 0.6.4</i>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,5 +1,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"># <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#D99E82" d="M12.75 17.75c1.226 2.195 1.856-1.361 9.312-2.625s13.729 4.454 13.859 5.413c.132.958-4.447 9.462-9.462 9.462H10.75c-4.143 0-7.022-7.224-4-11.438 0 0 4.5-3.5 6-.812z"/><path fill="#C1694F" d="M13.008 18.136C8.02 25.073 6.969 30 10.75 30c-4.143 0-6.578-6.188-4.468-11.031.463-1.064 1.758-2.492 1.758-2.492l4.179-.008c.162.32.599 1.365.789 1.667z"/><path fill="#E1E8ED" d="M20.062 22.75c6.672-2.682 15.729-3.171 15.859-2.212.132.958-4.447 9.462-9.462 9.462H11.813c-4.143 0 1.232-4.429 8.249-7.25z"/><path fill="#292F33" d="M25.359 21.125c6-1.312 10.468-1.282 10.563-.587.079.578-1.559 3.907-3.973 6.454 2.204-2.804 1.42-6.113-6.59-5.867z"/><path fill="#3E721D" d="M7.125 6.125c1.562-4.938 10.44-4.143 10.062.688-.378 4.829-6.453 7.859-4.179 11.323-1.586 1.38-5.016.913-6.727.833.702-1.351 1.381-2.631 1.812-3.406 2.916-5.235-2.131-5.764-.968-9.438z"/><path fill="#FFCC4D" d="M1.893 9.045c.568-1.1.549.106 3.352.142 1.554.021 1.463-.56 1.664-1.621.041-.223.776 1.616 2.061 1.807 3.554.531 1.879 1.94 0 2.261-.901.154-2.01.318-3.938.155-2.519-.212-3.768-1.528-3.139-2.744z"/><path fill="#F5F8FA" d="M12.502 16.625c.044.625.506 1.511.506 1.511-1.016 1.474-5.643 3.017-7.354 2.93.096-.628.283-1.362.627-2.097 1.844-.471 4.661-1.071 6.221-2.344z"/><path fill="#292F33" d="M11.708 6.151c0 .716-.58 1.296-1.296 1.296s-1.295-.58-1.295-1.296c0-.716.579-1.295 1.295-1.295s1.296.58 1.296 1.295z"/></svg> Rubber Ducky Bot<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">![Zrzut ekranu_20240909_201149](https://github.com/user-attachments/assets/bdc21ad9-ff56-4a80-8043-dda5fa48c46b)<br /></span><span class="token prefix inserted">+</span><span class="token line">![Zrzut ekranu_20240909_201527](https://github.com/user-attachments/assets/dd72d6a7-44e8-4eba-8f26-6bbfe606581f)<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">Welcome to **Rubber Ducky**, your friendly, quacky, open-source, and versatile Discord bot! Whether you're looking for some fun interactions or a reliable assistant for your development projects, Rubber Ducky is here to make your Discord experience more enjoyable and productive.<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">---</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -6,3 +6,4 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">![3](https://github.com/user-attachments/assets/0d010895-92cd-4c56-93a4-51718263153c)<br /></span><span class="token prefix unchanged">·</span><span class="token line">![4](https://github.com/user-attachments/assets/2a0b247f-553d-4e83-8bc3-32aeded92715)<br /></span><span class="token prefix unchanged">·</span><span class="token line">![5](https://github.com/user-attachments/assets/2de80a6e-ac56-43ee-9f1b-f7e1d43c746b)<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">![Zrzut ekranu_20240909_224636](https://github.com/user-attachments/assets/6226b82a-8e46-475b-89e8-e4afa6f89907)</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -4209,7 +4209,7 @@ I'm using the Haskell client in version 0.6.4</i>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Sept 2024, 00:08:58 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Sept 2024, 01:08:33 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
