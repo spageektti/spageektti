@@ -37,3 +37,11 @@ If you appreciate my contributions to open source and open data, you can tell me
 **📲 Let's Connect 📲**
 
 Feel free to reach out to me if you're working on a project that aligns with my values, or if you just want to chat about open source and open data or any other topic 💬. I'm always up for a conversation 😊! 
+
+**📊 Stats 📊**
+
+[![Stats Graph](https://gh-stats.spageektti.cc/api?username=spageektti&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage)](https://gh-stats.spageektti.cc/api?username=spageektti&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage)
+
+[![Streak Stats](https://gh-streak.spageektti.cc/?user=spageektti&theme=vue-dark&hide_border=false)](https://gh-streak.spageektti.cc/?user=spageektti&theme=vue-dark&hide_border=false)
+
+![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=spageektti&theme=onedark)
