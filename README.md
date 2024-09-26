@@ -20,11 +20,14 @@ I'm also an avid competitive programmer, with a strong interest in algorithmic p
 
 I'm proud to have contributed to some amazing projects, including:
 
-* [tldr-pages](https://github.com/tldr-pages/tldr/graphs/contributors): Simplifying command-line 📝 documentation.
-* [OpenStreetMap](https://www.openstreetmap.org): 🗺️ Mapping the world, together.
-* [OpenFoodFacts](https://world.openfoodfacts.org/contributor/spageektti): A collaborative project to collect and share 🍔 food product data.
+* [tldr-pages](https://github.com/tldr-pages/tldr): 📝 **Maintainer, organization member**. Lot of [contributions](https://github.com/tldr-pages/tldr/graphs/contributors). The tldr-pages project provides simplified and community-driven man pages.
+* [OpenStreetMap](https://openstreetmap.org): 🗺️ **Contributor**. Many [contributions](https://openstreetmap.org). OpenStreetMap is a collaborative project to create a free, editable map of the world.
+* [Wikipedia](https://wikipedia.org): 📖 **Contributor**. Some [contributions](https://xtools.wmcloud.org/ec/en.wikipedia.org/Spageektti). Wikipedia is a free, open encyclopedia that anyone can edit.
+* [Wikidata](https://wikidata.org): 🗃️ **Contributor**. Some [contributions](https://xtools.wmcloud.org/ec/www.wikidata.org/Spageektti). Wikidata is a free, collaborative knowledge base of structured data.
+* [Commons](https://commons.wikimedia.org): 🖼️ **Contributor**. Some [contributions](https://xtools.wmcloud.org/ec/commons.wikimedia.org/Spageektti). Commons is a free, open media repository that anyone can contribute to.
+* [OpenFoodFacts](https://openfoodfacts.org): 🍔 **Contributor**. Some [contributions](https://world.openfoodfacts.org/contributor/spageektti). OpenFoodFacts is a free, open database of food products from around the world.
 
-And many more! You can check out my GitHub activity to see what I've been up to lately 🔍.
+And many more! You can check out my GitHub activity and Mastodon to see what I've been up to lately 🔍.
 
 **👥 Organizations & Memberships 👥**
 
