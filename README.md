@@ -14,7 +14,7 @@ I'm also an avid competitive programmer, with a strong interest in algorithmic p
 
 * 🏅 Medalist of the Polish Junior Olympiad of Informatics,
 * 🏆 Winner of the Kaliski Konkurs Informatyczny ,
-* and other 🎉.
+* and others 🎉.
 
 **🎁 Contributions 🎁**
 
