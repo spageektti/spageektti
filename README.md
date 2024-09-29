@@ -1,4 +1,4 @@
-## **Hi, I'm Wiktor.**
+## **Hi, my name is Wiktor.**
 ### **Open Source Enthusiast & Data Freedom Fighter 💻**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=spageektti)
