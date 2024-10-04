@@ -5,6 +5,11 @@
 ![Liberapay Patrons](https://img.shields.io/liberapay/patrons/spageektti.svg?logo=liberapay)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](https://mastodon.social/invite/YMzUenDg)
 [![signal](https://img.shields.io/badge/Signal-blue?logo=signal&logoColor=white)](https://signal.me/#eu/uewaVaf6jIEDAmae2gGSqNeLrhk_1wKmOLAdEBmZWQ4M7lIg12hHqZK5ophGkDTD)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1236816998059606071)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/wiktor.perskawiec)
+[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white)](mailto:spageektti@proton.me)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/spageektti)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/spageektti)
 
 👋 Hi. I'm Wiktor, but you can call me spageektti. I'm a student with a passion for open source and open data, and I believe that knowledge should be free and accessible to everyone 📚. I also like playing games, especially 🏎️ Super Tux Kart and  🎮 retro classics.
 
