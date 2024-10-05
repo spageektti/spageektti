@@ -53,3 +53,5 @@ Feel free to reach out to me if you're working on a project that aligns with my 
 [![Streak Stats](https://gh-streak.spageektti.cc/?user=spageektti&theme=vue-dark&hide_border=false)](https://gh-streak.spageektti.cc/?user=spageektti&theme=vue-dark&hide_border=false)
 
 ![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=spageektti&theme=onedark)
+
+![Github Contrib Stats](https://github-contributor-stats.vercel.app/api?username=spageektti&limit=10&theme=dark&combine_all_yearly_contributions=true)
