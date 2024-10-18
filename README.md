@@ -55,3 +55,5 @@ Feel free to reach out to me if you're working on a project that aligns with my 
 ![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=spageektti&theme=onedark)
 
 ![Github Contrib Stats](https://github-contributor-stats.vercel.app/api?username=spageektti&limit=10&theme=dark&combine_all_yearly_contributions=true)
+
+[![An image of @spageektti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spageektti)](https://holopin.io/@spageektti)
