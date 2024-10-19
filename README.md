@@ -40,13 +40,13 @@ And many more! You can check out my GitHub activity and Mastodon to see what I'v
 
 **🙏 Supporting Me 🙏**
 
-If you appreciate my contributions to open source and open data, you can tell me about that 💬. I do not accept donations currently and I won't in the next months. 
+If you appreciate my contributions to open source and open data, you can tell me about that 💬. I do not accept donations. 
 
 **📲 Let's Connect 📲**
 
 Feel free to reach out to me if you're working on a project that aligns with my values, or if you just want to chat about open source and open data or any other topic 💬. I'm always up for a conversation 😊! 
 
-**📊 Stats 📊**
+**📊 GitHub Stats 📊**
 
 [![Stats Graph](https://gh-stats.spageektti.cc/api?username=spageektti&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage)](https://gh-stats.spageektti.cc/api?username=spageektti&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage)
 
@@ -56,4 +56,7 @@ Feel free to reach out to me if you're working on a project that aligns with my 
 
 ![Github Contrib Stats](https://github-contributor-stats.vercel.app/api?username=spageektti&limit=10&theme=dark&combine_all_yearly_contributions=true)
 
+**📊 GitLab Stats 📊**
+
+**📊 Other Stats 📊**
 [![An image of @spageektti's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spageektti)](https://holopin.io/@spageektti)
