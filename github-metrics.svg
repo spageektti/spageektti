@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    40.5k added, 5.93k removed
+                                    793k added, 90.5k removed
                                 </div>
                             </section>
                             <section>
@@ -222,7 +222,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    2 views in last two weeks
+                                    6 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -382,35 +382,34 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    35 Languages
+                    21 Languages
                 </h2>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 32mb of code in 6118 edited files across 1011 commits</small>
+                <small>estimation from 31.7mb of code in 5137 edited files across 651 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="176.13338391770043" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="176.13338391770043" y="0" width="117.87951509590444" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="294.01289901360485" y="0" width="62.225123961108864" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="356.2380229747137" y="0" width="34.315405292536454" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="390.5534282672502" y="0" width="22.402992712321996" height="8" fill="#355570"/>
-                    <rect mask="url(#languages-bar)" x="412.95642097957216" y="0" width="19.39089951944851" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="432.34732049902067" y="0" width="12.554334080335034" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="444.9016545793557" y="0" width="8.73865527930217" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.6403098586579" y="0" width="3.638457059166064" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="457.27876691782393" y="0" width="1.0477728173727892" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="458.3265397351968" y="0" width="0.9023427620240805" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="459.2288824972208" y="0" width="0.2049549152123661" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.43383741243315" y="0" width="0.19075011910853876" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.6245875315417" y="0" width="0.14475363648662162" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="459.7693411680283" y="0" width="0.10281566703722657" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="459.87215683506554" y="0" width="0.08793445207131219" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.96009128713683" y="0" width="0.025027497897219624" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="459.98511878503405" y="0" width="0.014881214965914371" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="171.76478331368807" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="171.76478331368807" y="0" width="119.91222454242481" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="291.6770078561129" y="0" width="62.980237059552096" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="354.657244915665" y="0" width="34.90713871154962" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="389.56438362721457" y="0" width="22.789308985167324" height="8" fill="#355570"/>
+                    <rect mask="url(#languages-bar)" x="412.3536926123819" y="0" width="19.725275382783565" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="432.07896799516544" y="0" width="12.770820494103427" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="444.84978848926886" y="0" width="8.889344286816927" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.73913277608585" y="0" width="3.7011984610874102" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="457.44033123717327" y="0" width="1.0658405681770589" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="458.50617180535033" y="0" width="0.9179027230136838" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="459.42407452836403" y="0" width="0.194039406214287" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.6181139345783" y="0" width="0.14724976216261496" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="459.7653636967409" y="0" width="0.10458861611550221" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="459.8699523128564" y="0" width="0.08945079009878479" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.9594031029552" y="0" width="0.02545907102811567" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="459.9848621739833" y="0" width="0.015137826016717426" height="8" fill="#000080"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -478,12 +477,6 @@
                             <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Shell
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -568,16 +561,16 @@
                         <span class="name">@tldr-pages</span>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="3.343175970885797 329"/>
-                            <text x="15" y="15" dominant-baseline="central">328</text>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="3.1511152586849795 329"/>
+                            <text x="15" y="15" dominant-baseline="central">327</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="3.3446485935908488 329"/>
-                            <text x="15" y="15" dominant-baseline="central">519</text>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="3.151316304943979 329"/>
+                            <text x="15" y="15" dominant-baseline="central">489</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
@@ -3633,7 +3626,7 @@ Co-authored-by: Wiktor Perskawiec &lt;git@spageektti.cc&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 244 out of 209m repositories</span>
+                                    <span class="gh">ranked 244 out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 51052 stars</div>
                             </div>
@@ -3648,7 +3641,7 @@ Co-authored-by: Wiktor Perskawiec &lt;git@spageektti.cc&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="257.50666666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="257.61 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3670,7 +3663,7 @@ Co-authored-by: Wiktor Perskawiec &lt;git@spageektti.cc&gt;</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 3492 times</div>
+                                <div class="text">Repositories have been deployed 3493 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -4088,7 +4081,7 @@ Co-authored-by: Wiktor Perskawiec &lt;git@spageektti.cc&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.43m out of 209m repositories</span>
+                                    <span class="gh">ranked 5.43m out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -4303,7 +4296,7 @@ Co-authored-by: Wiktor Perskawiec &lt;git@spageektti.cc&gt;</div>
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">bharateshwq/tldr</span>
+                            <span class="blue space">SirMonteiro/tldr</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -4311,7 +4304,7 @@ Co-authored-by: Wiktor Perskawiec &lt;git@spageektti.cc&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 29 Oct 2024, 19:13:15
+                            On 30 Oct 2024, 22:33:49
                         </div>
                     </section>
                 </div>
@@ -4321,7 +4314,7 @@ Co-authored-by: Wiktor Perskawiec &lt;git@spageektti.cc&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Update pages/common/npm-adduser.md
+                            Update pages/common/idevicebackup.md
 
 Co-authored-by: Sebastiaan Speck &lt;12570668+sebastiaanspeck@users.noreply.github.com&gt;
                         </div>
@@ -4329,10 +4322,10 @@ Co-authored-by: Sebastiaan Speck &lt;12570668+sebastiaanspeck@users.noreply.gith
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">3d04829d</span>
-                            <span class="code">pages/common/npm-adduser.md</span>
+                            <span class="code">8b96392e</span>
+                            <span class="code">pages/common/idevicebackup.md</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
+                                <span class="snippet additions">++2</span>
                                 <span class="snippet deletions">--1</span>
                             </span>
                         </div>
@@ -4341,7 +4334,7 @@ Co-authored-by: Sebastiaan Speck &lt;12570668+sebastiaanspeck@users.noreply.gith
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -5,7 +5,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">- Create a new user in the specified registry and save credentials to `.npmrc`:<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">`npm adduser --registry={{registry-url}}`<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">`npm adduser --registry={{registry_url}}`<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">- Log in to a private registry with a specific scope:<br /></span><span class="token prefix unchanged">·</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,6 +1,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"># idevicebackup<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&gt; Create or restore backups for iOS devices. This tool is outdated; see `idevicebackup2` for newer versions.<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&gt; Create or restore backups for iOS devices. <br /></span><span class="token prefix inserted">+</span><span class="token line">&gt; Note: This tool is outdated. Please see `idevicebackup2`.<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&gt; More information: &lt;https://manned.org/idevicebackup&gt;.<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">- Create a backup of the device in the specified directory:</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -4407,7 +4400,7 @@ Co-authored-by: Sebastiaan Speck &lt;12570668+sebastiaanspeck@users.noreply.gith
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Nov 2024, 15:09:28 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Nov 2024, 16:10:09 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
