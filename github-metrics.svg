@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4891" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="4904" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    861k added, 92.7k removed
+                                    107k added, 4.81k removed
                                 </div>
                             </section>
                             <section>
@@ -382,35 +382,34 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    34 Languages
+                    21 Languages
                 </h2>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 32.2mb of code in 6393 edited files across 1128 commits</small>
+                <small>estimation from 31.9mb of code in 5309 edited files across 729 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="149.8040338829156" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="149.8040338829156" y="0" width="100.25826155579763" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="250.06229543871325" y="0" width="71.74561049154741" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="321.8079059302607" y="0" width="52.92338323888756" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="374.7312891691482" y="0" width="29.185756968997357" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="403.9170461381456" y="0" width="19.054074842072744" height="8" fill="#355570"/>
-                    <rect mask="url(#languages-bar)" x="422.97112098021836" y="0" width="16.49224527468899" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="439.4633662549073" y="0" width="10.704109798055722" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="450.1674760529631" y="0" width="6.279445256679469" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="456.44692130964256" y="0" width="1.3151453831213253" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="457.7620666927639" y="0" width="0.958456784024553" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="458.72052347678846" y="0" width="0.7674557922501523" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="459.4879792690386" y="0" width="0.17431717020374524" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.66229643924237" y="0" width="0.12311509710759563" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="459.78541153634995" y="0" width="0.10585597134484859" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="459.8912675076948" y="0" width="0.07478954497190389" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.9660570526667" y="0" width="0.02128625510738803" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="459.9873433077741" y="0" width="0.012656692226014505" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="145.71286810845518" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="145.71286810845518" y="0" width="101.72489274144121" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="247.4377608498964" y="0" width="72.79514344920176" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="320.2329042990981" y="0" width="53.427895981087474" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="373.6608002801856" y="0" width="29.61270174824154" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="403.2735020284271" y="0" width="19.332807985290255" height="8" fill="#355570"/>
+                    <rect mask="url(#languages-bar)" x="422.6063100137174" y="0" width="16.733502612147213" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="439.33981262586457" y="0" width="10.860695210577008" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="450.2005078364416" y="0" width="6.371304322446955" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="456.5718121588885" y="0" width="1.3343840294194904" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="457.906196188308" y="0" width="0.9724775997431633" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="458.8786737880512" y="0" width="0.7786825438519686" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="459.65735633190315" y="0" width="0.1249160902431194" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="459.7822724221462" y="0" width="0.10740448880716809" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="459.88967691095337" y="0" width="0.07588360622245571" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.96556051717585" y="0" width="0.021597641771006624" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="459.98715815894684" y="0" width="0.012841841053030966" height="8" fill="#000080"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -484,12 +483,6 @@
                             <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Shell
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -576,7 +569,7 @@
                         </svg>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="3.2978611807214873 329"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="3.2977330561976728 329"/>
                             <text x="15" y="15" dominant-baseline="central">516</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -3628,7 +3621,7 @@ Co-authored-by: Wiktor Perskawiec &lt;git@spageektti.cc&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="428.59566666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="428.61633333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -3651,9 +3644,9 @@ Co-authored-by: Wiktor Perskawiec &lt;git@spageektti.cc&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 246 out of 218m repositories</span>
+                                    <span class="gh">ranked 246 out of 195m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 51477 stars</div>
+                                <div class="text">Maintaining a repository with 51479 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3666,7 +3659,7 @@ Co-authored-by: Wiktor Perskawiec &lt;git@spageektti.cc&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="318.68 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="318.7833333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3688,7 +3681,7 @@ Co-authored-by: Wiktor Perskawiec &lt;git@spageektti.cc&gt;</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 4084 times</div>
+                                <div class="text">Repositories have been deployed 4085 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -4106,7 +4099,7 @@ Co-authored-by: Wiktor Perskawiec &lt;git@spageektti.cc&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.47m out of 218m repositories</span>
+                                    <span class="gh">ranked 5.47m out of 195m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -4321,7 +4314,7 @@ Co-authored-by: Wiktor Perskawiec &lt;git@spageektti.cc&gt;</div>
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">mjherich/tldr</span>
+                            <span class="blue space">youns115/tldr</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -4329,7 +4322,7 @@ Co-authored-by: Wiktor Perskawiec &lt;git@spageektti.cc&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 24 Nov 2024, 10:46:02
+                            On 25 Nov 2024, 19:02:49
                         </div>
                     </section>
                 </div>
@@ -4339,16 +4332,16 @@ Co-authored-by: Wiktor Perskawiec &lt;git@spageektti.cc&gt;</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Update pages/common/fabric.md
+                            Update pages/common/clear.md
 
-Co-authored-by: Juri Dispan &lt;juri.dispan@posteo.net&gt;
+Co-authored-by: Lena &lt;126529524+acuteenvy@users.noreply.github.com&gt;
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">75bde8c6</span>
-                            <span class="code">pages/common/fabric.md</span>
+                            <span class="code">0a7ff93e</span>
+                            <span class="code">pages/common/clear.md</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--1</span>
@@ -4359,7 +4352,7 @@ Co-authored-by: Juri Dispan &lt;juri.dispan@posteo.net&gt;
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -4,7 +4,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&gt; Provides a modular framework for solving specific problems using a crowdsourced set of AI prompts.<br /></span><span class="token prefix unchanged">·</span><span class="token line">&gt; More information: &lt;https://github.com/danielmiessler/fabric&gt;.<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">- Run setup to configure fabric:<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">- Run the setup to configure fabric:<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">`fabric --setup`<br /></span><span class="token prefix unchanged">·</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -7,7 +7,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">`clear`<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">- Clear the screen but keep the terminal's scrollback buffer (equivalent to pressing Ctrl + L in Bash shell):<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">- Clear the screen but keep the terminal's scrollback buffer (equivalent to pressing Ctrl + L in Bash):<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">`clear -x`<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -4425,7 +4418,7 @@ Co-authored-by: Juri Dispan &lt;juri.dispan@posteo.net&gt;
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Nov 2024, 09:13:58 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Nov 2024, 10:10:53 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
