@@ -11,6 +11,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/spageektti)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/spageektti)
 
+![](https://spageektti.cc/img/poland-and-eu-flags.jpg)
+
 👋 Hi. I'm Wiktor, but you can call me spageektti. I'm a student with a passion for open source and open data, and I believe that knowledge should be free and accessible to everyone 📚. I also like playing games, especially 🏎️ Super Tux Kart and  🎮 retro classics.
 
 **🏆 Competitive Programming 🏆**
