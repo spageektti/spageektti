@@ -412,7 +412,7 @@
                         </svg>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
                             <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="2.7861887454568244 329"/>
+                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="2.786039100544256 329"/>
                             <text x="15" y="15" dominant-baseline="central">473</text>
                         </svg>
                         <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2524,7 +2524,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>allthingslinux/tux</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tux is an all in one bot for the All Things Linux discord server.</div>
@@ -2577,7 +2577,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>allthingslinux/code-of-conduct</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code of Conduct for All Things Linux</div>
@@ -2624,7 +2624,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>allthingslinux/tuxkeychain</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Keychain shaped like Tux that can run Linux.</div>
@@ -2677,7 +2677,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>InBrowserApp/tldr.inbrowser.app</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3353,7 +3353,7 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jun 2025, 17:12:01 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jun 2025, 18:13:55 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
